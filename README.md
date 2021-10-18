@@ -16,6 +16,9 @@ I am working on a deep dive into baseball statistics. I have been a baseball fan
 - :baseball: Baseball
 - :tv: Movies & TV
 
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-b-ashworth)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **james-b-ashworth/james-b-ashworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
