@@ -7,7 +7,7 @@ As 2021 comes to a close I am completing my time at Kennesaw State University ea
 
 ### Currently Working On, Personal Project:
 
-:baseball: I am working on a deep dive into baseball statistics. I have been a baseball fan since I was a child, and it is my way of feeling connected to my father after his passing in 2015. One question I have is how does a current teams' players stack up against their opponents' current players. We often hear about how a player has performed against another team, but they fail to compensate for player changes YoY.  Is it possible to create a better algorithm by breaking a team into 25 player pieces instead of a team?
+I am working on a deep dive into baseball statistics. I have been a baseball fan since I was a child, and it is my way of feeling connected to my father after his passing in 2015. One question I have is how does a current teams' players stack up against their opponents' current players. We often hear about how a player has performed against another team, but they fail to compensate for player changes YoY.  Is it possible to create a better algorithm by breaking a team into 25 player pieces instead of a team?
 
 ### Ask Me About
 
