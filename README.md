@@ -1,3 +1,4 @@
+![](https://github.com/james-b-ashworth/james-b-ashworth/blob/main/github_banner.png)
 # James B Ashworth
 ## Senior Business Analyst, AT&T
 
