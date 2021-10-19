@@ -2,8 +2,9 @@
 # James B Ashworth
 ## Senior Business Analyst, AT&T
 
-### Resume
-[James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.md)
+### Resume & LinkedIn
+- [James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.md)
+- [James' LinkedIn](https://www.linkedin.com/in/james-ashworth-11514348/)
 
 ### Currenly Working On, Education:
 
