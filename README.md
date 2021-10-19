@@ -2,6 +2,9 @@
 # James B Ashworth
 ## Senior Business Analyst, AT&T
 
+### Resume
+[James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.md)
+
 ### Currenly Working On, Education:
 
 As 2021 comes to a close I am completing my time at Kennesaw State University earning my Bachelors in Computational & Applied Mathematics.  This frees up time to concentrate on my curriculum at Georgia Tech for a Masters in Data Analytics.
