@@ -3,7 +3,7 @@
 ## Senior Business Analyst, AT&T
 
 ### Resume & LinkedIn
-- [James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.md)
+- [James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.pdf)
 - [James' LinkedIn](https://www.linkedin.com/in/james-ashworth-11514348/)
 
 ### Currenly Working On, Education:
@@ -13,6 +13,9 @@ As 2021 comes to a close I am completing my time at Kennesaw State University ea
 ### Currently Working On, Personal Project:
 
 I am working on a deep dive into baseball statistics. I have been a baseball fan since I was a child, and it is my way of feeling connected to my father after his passing in 2015. One question I have is how does a current teams' players stack up against their opponents' current players. We often hear about how a player has performed against another team, but they fail to compensate for player changes YoY.  Is it possible to create a better algorithm by breaking a team into 25 player pieces instead of a team?
+
+- [Adventures In Baseball Data](adventuresinbaseballdata.blogspot.com)
+- [Follow The Blog](javascript:openPopup("https://www.blogger.com/follow.g?view\x3dFOLLOW\x26blogID\x3d2393729771363721090%22,300))
 
 ### Ask Me About
 
