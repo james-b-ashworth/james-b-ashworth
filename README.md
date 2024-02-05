@@ -1,18 +1,22 @@
 ![](https://github.com/james-b-ashworth/james-b-ashworth/blob/main/github_banner.png)
 # James B Ashworth
-## Senior Business Analyst, AT&T
+## Lead Advanced Analytics, AT&T
 
 ### Resume & LinkedIn
 - [James' Resume](https://github.com/james-b-ashworth/resume.md/blob/main/resume.pdf)
 - [James' LinkedIn](https://www.linkedin.com/in/james-ashworth-11514348/)
 
-### Currenly Working On, Education:
+### Currenty Working On, Education:
 
-As 2021 comes to a close I am completing my time at Kennesaw State University earning my Bachelors in Computational & Applied Mathematics.  This frees up time to concentrate on my curriculum at Georgia Tech for a Masters in Data Analytics.
+As the dawn of 2024 unfolds, I stand on the cusp of a new chapter in my journey. My academic pursuit culminates at the prestigious Georgia Institute of Technology, where I am poised to attain a Master's degree in Data Analytics—a testament to my unwavering commitment to the world of data-driven insights.
+
+With this significant milestone on the horizon, my professional horizon widens to embrace a compelling opportunity at AT&T. In the heart of this industry titan, I'm primed to channel my expertise into the realm of Generative AI projects, where I can harness cutting-edge technology to unlock innovative solutions and drive data-driven progress.
+
+Join me on this exciting voyage as I explore the ever-evolving landscape of data analytics and forge new frontiers in the realm of Generative AI. Together, we'll embark on a journey of discovery and transformation in the world of data.
 
 ### Currently Working On, Personal Project:
 
-I am working on a deep dive into baseball statistics. I have been a baseball fan since I was a child, and it is my way of feeling connected to my father after his passing in 2015. One question I have is how does a current teams' players stack up against their opponents' current players. We often hear about how a player has performed against another team, but they fail to compensate for player changes YoY.  Is it possible to create a better algorithm by breaking a team into 25 player pieces instead of a team?
+Baseball's been my passion since I was a kid, bonding me with my late father. Now, I'm digging deep into baseball stats, wondering how today's players really stack up against each other when teams change every year. My project's all about crafting a smarter algorithm that breaks down teams into their 25-player puzzle pieces. Stay tuned, fellow fans; we're rewriting the playbook!
 
 - [Adventures In Baseball Data](adventuresinbaseballdata.blogspot.com)
 
